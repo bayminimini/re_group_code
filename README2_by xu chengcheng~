@@ -1,0 +1,5 @@
+This document is created in 2015/01/19
+except for the functions about Markov, steady vector bla bla, we add new functions as listed below:
+1. output dot file for NFA. The original code only provide the functions but not compile options, we fix it.
+   the compile options is:
+   --graph_nfa,-gnfa <dot_file>    export NFA in DOT format into specified file   --
